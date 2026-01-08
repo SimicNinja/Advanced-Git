@@ -1,1 +1,1 @@
-This is no longer a demo, but a rebase demo.
+This is now a rebase demo not the merge demo.
